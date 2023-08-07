@@ -105,6 +105,8 @@ ul {
 
 .landing-page ul{
     display: flex;
+    position: relative;
+    z-index: 2000;
 }
 .landing-page ul.open {
     display: flex;
